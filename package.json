@@ -1,6 +1,6 @@
 {
   "name": "renuncia",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ricky renuncia",
   "main": "index.js",
   "bin": "index.js",
